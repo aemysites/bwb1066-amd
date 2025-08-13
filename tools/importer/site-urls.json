@@ -1,0 +1,789 @@
+{
+  "originUrl": "https://www.amd.com",
+  "aborted": false,
+  "lastCrawled": "https://www.amd.com/en.html",
+  "urls": [
+    {
+      "url": "https://www.amd.com/en.html",
+      "source": "CRAWL",
+      "targetPath": "/en",
+      "id": "96b02147f77919cdd290252a9d88b3a33e5d95f5"
+    },
+    {
+      "url": "https://www.amd.com/en/developer.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer",
+      "id": "e3e8e853ad7922c8c2a2ad2edb6e9d3105400601"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/browse-by-product-type/adaptive-resources.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/browse-by-product-type/adaptive-resources",
+      "id": "dac3fd3f0a215612e854be377a1ff64d42e4217a"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/browse-by-resource-type/software-tools.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/browse-by-resource-type/software-tools",
+      "id": "853e64d6cede9b8977d1391fa46d3f47d5efc7d2"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/resources/alveo-apps/all-apps.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/resources/alveo-apps/all-apps",
+      "id": "9371c4c642ce7807240d72621f1a6a52e31c66e0"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/resources/infinity-hub.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/resources/infinity-hub",
+      "id": "b6d8d1a15d6e6819d31f656093e50226788dce3c"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/resources/kria-apps.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/resources/kria-apps",
+      "id": "da40750231912ae596d19e73b666f4038bd8d57a"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/resources/rocm-hub.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/resources/rocm-hub",
+      "id": "8a4f0367703a82a31fbe948181fa736aa51d877b"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/resources/rocm-hub/dev-ai.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/resources/rocm-hub/dev-ai",
+      "id": "bf3a2cb28c07f03d0d220102b5135c892c453a84"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/resources/ryzen-ai-software.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/resources/ryzen-ai-software",
+      "id": "544fb23af80e0f91f9a277750326fac966b08cfd"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/resources/vitis.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/resources/vitis",
+      "id": "ac3bb4468f0ea1b6872d31051d3831f02a045613"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/resources/vivado.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/resources/vivado",
+      "id": "1f8f7cda448c37742c51c60a4b6c9b1ec11766ce"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/zen-software-studio.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/zen-software-studio",
+      "id": "9b7029bbabda715c852e5908bf954e4ba7aab0ef"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/zendnn.html",
+      "source": "CRAWL",
+      "targetPath": "/en/developer/zendnn",
+      "id": "478fe7587f3d7c5ad8c2f426c35cf0426f0f3d70"
+    },
+    {
+      "url": "https://www.amd.com/en/gaming.html",
+      "source": "CRAWL",
+      "targetPath": "/en/gaming",
+      "id": "8f5ef2daec37e50c881d00b9c67aa45b539ae86e"
+    },
+    {
+      "url": "https://www.amd.com/en/gaming/advantage.html",
+      "source": "CRAWL",
+      "targetPath": "/en/gaming/advantage",
+      "id": "bcb6089da7c98c63fdedefa1b341c26152c162b5"
+    },
+    {
+      "url": "https://www.amd.com/en/gaming/desktops.html",
+      "source": "CRAWL",
+      "targetPath": "/en/gaming/desktops",
+      "id": "6e0f479b15566f4addf8ed625c043b76b27fd1fa"
+    },
+    {
+      "url": "https://www.amd.com/en/gaming/desktops/advantage-premium.html",
+      "source": "CRAWL",
+      "targetPath": "/en/gaming/desktops/advantage-premium",
+      "id": "87943cb4d296e2d2829df425c09ea72da2da3cf0"
+    },
+    {
+      "url": "https://www.amd.com/en/gaming/featured-games.html",
+      "source": "CRAWL",
+      "targetPath": "/en/gaming/featured-games",
+      "id": "233059a271f394ef7de6c63c9931dbd3ad819199"
+    },
+    {
+      "url": "https://www.amd.com/en/gaming/handhelds.html",
+      "source": "CRAWL",
+      "targetPath": "/en/gaming/handhelds",
+      "id": "6937000d51fcedb62fb3258c6117229414446483"
+    },
+    {
+      "url": "https://www.amd.com/en/gaming/laptops.html",
+      "source": "CRAWL",
+      "targetPath": "/en/gaming/laptops",
+      "id": "4e9d21c9c5dd136ca657e9bd6bfdcd343d77ab43"
+    },
+    {
+      "url": "https://www.amd.com/en/gaming/laptops/advantage-premium.html",
+      "source": "CRAWL",
+      "targetPath": "/en/gaming/laptops/advantage-premium",
+      "id": "ef50310f10a4432d3416b61c98ccb3821f6cc98c"
+    },
+    {
+      "url": "https://www.amd.com/en/gaming/technologies/smart-technologies.html",
+      "source": "CRAWL",
+      "targetPath": "/en/gaming/technologies/smart-technologies",
+      "id": "dbefaef69f8976493e38606bdf0f6e2058f09d53"
+    },
+    {
+      "url": "https://www.amd.com/en/newsroom/press-release-search.html",
+      "source": "CRAWL",
+      "targetPath": "/en/newsroom/press-release-search",
+      "id": "c0ef457f0b1ccf3773ba8e7d9d9f16491c374bb6"
+    },
+    {
+      "url": "https://www.amd.com/en/products/accelerators/alveo.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/accelerators/alveo",
+      "id": "674def22de1415080b2322f92602a86f540300f5"
+    },
+    {
+      "url": "https://www.amd.com/en/products/accelerators/alveo/x3/a-x3522-p08g-pq-g.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/accelerators/alveo/x3/a-x3522-p08g-pq-g",
+      "id": "16ade60d81ddd7bbc873d0169f014a4f4d34727e"
+    },
+    {
+      "url": "https://www.amd.com/en/products/accelerators/instinct.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/accelerators/instinct",
+      "id": "0cfc93044f0125f1e04a369c8edae89673f38a2b"
+    },
+    {
+      "url": "https://www.amd.com/en/products/accelerators/radeon-pro.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/accelerators/radeon-pro",
+      "id": "2dd120724466d0e7d2dda133acab8d86fd430b8d"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/cost-optimized-portfolio.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/cost-optimized-portfolio",
+      "id": "7639cda3e8ff9f1e1aca32714f3dbfeeb793f8ae"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/evaluation-boards.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/evaluation-boards",
+      "id": "6db3a030bda5cd2f550c63f37327953b72d6644f"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/fpga.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/fpga",
+      "id": "b2ac9c1ccf1d3543c78119f02341917e02ee3056"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/intellectual-property.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/intellectual-property",
+      "id": "f896539ec00972d2b50ba16131e1da2a78fed8d3"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/soc.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/soc",
+      "id": "64408bfe3ebbbda8e521ffc2ad1e6bb3a984b7a2"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/technologies/ai-engine.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/technologies/ai-engine",
+      "id": "1cb9873d722c4b94208f1cb82582984e2833121a"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/technologies/design-security.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/technologies/design-security",
+      "id": "97ab04d9b6d80a991088116fc5dd51650a66d765"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/technologies/functional-safety.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/technologies/functional-safety",
+      "id": "e2440721fd8b36471fb0b9683c998547c7a31148"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/technologies/high-speed-serial.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/technologies/high-speed-serial",
+      "id": "7365bffb0bacfdbdb2f7ff92cf8f5b6a86549fda"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/technologies/memory.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/technologies/memory",
+      "id": "81af1975ceee0491ebbb859f21a1070cb0e64b7e"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/technologies/power-efficiency.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/technologies/power-efficiency",
+      "id": "6500df2e65f1cc47a0818e4a592e45232f83cbe7"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/versal.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/versal",
+      "id": "77fc8d393d4f4762c8b0543f26d814d9c6f2a50b"
+    },
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/versal/gen2/ai-edge-series.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/adaptive-socs-and-fpgas/versal/gen2/ai-edge-series",
+      "id": "c4db931d91dee965124db80c1cf27931f9fdd8b3"
+    },
+    {
+      "url": "https://www.amd.com/en/products/data-processing-units/pensando.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/data-processing-units/pensando",
+      "id": "8da0a6ddf7de4a7d477f24a6af3d10e7aebdbe20"
+    },
+    {
+      "url": "https://www.amd.com/en/products/embedded.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/embedded",
+      "id": "d4cbc2d954d46692b9672e49d9c3866f171f1d63"
+    },
+    {
+      "url": "https://www.amd.com/en/products/embedded/ecosystem.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/embedded/ecosystem",
+      "id": "64783089a7c5418436cb49f834fcf3cfb23e8983"
+    },
+    {
+      "url": "https://www.amd.com/en/products/ethernet-adapters.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/ethernet-adapters",
+      "id": "b172376430d7c603fa36304218d4c7fccd0a09c1"
+    },
+    {
+      "url": "https://www.amd.com/en/products/graphics/desktops/radeon.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/graphics/desktops/radeon",
+      "id": "acafd52a30f199dd2d6b5c0c69d5c2bf33c29c92"
+    },
+    {
+      "url": "https://www.amd.com/en/products/graphics/laptops/radeon.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/graphics/laptops/radeon",
+      "id": "60f4b327800887264387a83e25b512aa5f9db51a"
+    },
+    {
+      "url": "https://www.amd.com/en/products/graphics/radeon-ai.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/graphics/radeon-ai",
+      "id": "73041eb723a5be33d0b2c53a6f39b8db44018035"
+    },
+    {
+      "url": "https://www.amd.com/en/products/graphics/software/radeon-prorender.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/graphics/software/radeon-prorender",
+      "id": "6a8ac07ce17446822c8c5e27b05e1856f6aacb56"
+    },
+    {
+      "url": "https://www.amd.com/en/products/graphics/technologies/fidelityfx.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/graphics/technologies/fidelityfx",
+      "id": "7485edb879b39ee9e077f4d920a4593cb3a05eb1"
+    },
+    {
+      "url": "https://www.amd.com/en/products/graphics/technologies/fidelityfx/super-resolution.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/graphics/technologies/fidelityfx/super-resolution",
+      "id": "60305696c07739950ab5ff66732117e7bf267749"
+    },
+    {
+      "url": "https://www.amd.com/en/products/graphics/technologies/freesync.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/graphics/technologies/freesync",
+      "id": "bf8d51103a22133839d4c265aa9fa35fbb42c9da"
+    },
+    {
+      "url": "https://www.amd.com/en/products/graphics/workstations.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/graphics/workstations",
+      "id": "33838357a3839daf7390ef8bbbb57be28dd8a3f3"
+    },
+    {
+      "url": "https://www.amd.com/en/products/network-interface-cards/pensando.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/network-interface-cards/pensando",
+      "id": "21230fbd64ba5b4e6b74aa74af80bc185af25b6c"
+    },
+    {
+      "url": "https://www.amd.com/en/products/processors/business-systems/ryzen-ai.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/processors/business-systems/ryzen-ai",
+      "id": "dc254866b2bbb3e1ac8b1e75a40ebccf57c0fea5"
+    },
+    {
+      "url": "https://www.amd.com/en/products/processors/consumer/ryzen-ai.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/processors/consumer/ryzen-ai",
+      "id": "b6669442fbc1ae556804011cf1792f1e73b956fa"
+    },
+    {
+      "url": "https://www.amd.com/en/products/processors/desktops/ryzen.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/processors/desktops/ryzen",
+      "id": "35ea6cc05e6df118b862130d9ad993a0fd5b5f74"
+    },
+    {
+      "url": "https://www.amd.com/en/products/processors/handhelds/ryzen-z-series.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/processors/handhelds/ryzen-z-series",
+      "id": "908e987e2b00e60580f2d472429d4568265b2b89"
+    },
+    {
+      "url": "https://www.amd.com/en/products/processors/laptop/ryzen-for-business.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/processors/laptop/ryzen-for-business",
+      "id": "9e01a5571994836c0fbc045caf45693bf9bb575e"
+    },
+    {
+      "url": "https://www.amd.com/en/products/processors/laptop/ryzen.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/processors/laptop/ryzen",
+      "id": "02dd9fc09dd7a4e5e5f83b1369b8a3f1e497b800"
+    },
+    {
+      "url": "https://www.amd.com/en/products/processors/ryzen-for-professionals.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/processors/ryzen-for-professionals",
+      "id": "a185194b1fc71aec38c039057b3d3a87e851d566"
+    },
+    {
+      "url": "https://www.amd.com/en/products/processors/server/epyc.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/processors/server/epyc",
+      "id": "f15e0338cff09c7bc2b2cb51e6ac93ecab8abc54"
+    },
+    {
+      "url": "https://www.amd.com/en/products/processors/server/epyc/ai.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/processors/server/epyc/ai",
+      "id": "92a5c8ba461c1eebf142fb913bce5668fda3bb53"
+    },
+    {
+      "url": "https://www.amd.com/en/products/processors/technologies/pro-technologies.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/processors/technologies/pro-technologies",
+      "id": "33743ca9d7a1ad77d06203f342f7606b8516b5af"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/adaptive-socs-and-fpgas",
+      "id": "0d0d8d8c661b788800ca08d7b4cb461f0c59df15"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/embedded-software.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/adaptive-socs-and-fpgas/embedded-software",
+      "id": "aa76e620adf18cea3244ec0bf477b25e2c5c1ba5"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/power-design-manager.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/adaptive-socs-and-fpgas/power-design-manager",
+      "id": "fba0d9efd17daefc6eb69d5eeac4d4c4f0b148b0"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vitis.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/adaptive-socs-and-fpgas/vitis",
+      "id": "e8fdca9fd401b9f25dd940f899cd0f1cdfc7d196"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vitis/vitis-hls.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/adaptive-socs-and-fpgas/vitis/vitis-hls",
+      "id": "2e0a64d41221aec79f3e2567df260b935723e940"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vitis/vitis-model-composer.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/adaptive-socs-and-fpgas/vitis/vitis-model-composer",
+      "id": "10287528bbc9629fbc4c9eacd11aa498678e8b45"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/adaptive-socs-and-fpgas/vivado",
+      "id": "3db3124225792196d00b090dcd3643f824dc10c8"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/adrenalin.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/adrenalin",
+      "id": "9aaacea142c8d62812fc93df5dc7e7a97c3581e6"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/adrenalin/hypr-rx.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/adrenalin/hypr-rx",
+      "id": "0560dd5f78699bbc33f803656a51e89b9683c7d3"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/rocm.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/rocm",
+      "id": "eac1ac7e6471e797c0fef3b61f03256dc75ecadd"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/ryzen-ai-software.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/ryzen-ai-software",
+      "id": "ce6f8a8e501a54e17fa7f8ba84daa8d1384227b7"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/ryzen-master.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/ryzen-master",
+      "id": "1af511dafa9de5b46386e957ed1d99a2b93fbf3b"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/storemi.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/storemi",
+      "id": "c911c4dc0abaa6c282d5feeb5d14544ebba8c3ec"
+    },
+    {
+      "url": "https://www.amd.com/en/products/software/vitis-ai.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/software/vitis-ai",
+      "id": "087c8f36406ca5fc284ccbe20f80a387074b45dd"
+    },
+    {
+      "url": "https://www.amd.com/en/products/specifications.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/specifications",
+      "id": "90e9839b3e1720b8037d6c653623056c147de069"
+    },
+    {
+      "url": "https://www.amd.com/en/products/system-on-modules.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/system-on-modules",
+      "id": "9975c459d76a79721f49052ce63f49338685cb73"
+    },
+    {
+      "url": "https://www.amd.com/en/products/system-on-modules/kria.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/system-on-modules/kria",
+      "id": "fb037100b9fef05503e08bbb402803e26d2a93f0"
+    },
+    {
+      "url": "https://www.amd.com/en/products/system-on-modules/kria/k24/kd240-drives-starter-kit.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/system-on-modules/kria/k24/kd240-drives-starter-kit",
+      "id": "92a0ebb1051d19a60f8290abd24f9b11d5a03d53"
+    },
+    {
+      "url": "https://www.amd.com/en/products/system-on-modules/kria/k26/kr260-robotics-starter-kit.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/system-on-modules/kria/k26/kr260-robotics-starter-kit",
+      "id": "3ebbfba5f18ad5c5f0b38f25f848f72b3951129f"
+    },
+    {
+      "url": "https://www.amd.com/en/products/system-on-modules/kria/k26/kv260-vision-starter-kit.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/system-on-modules/kria/k26/kv260-vision-starter-kit",
+      "id": "c61f1f216eb8137164fac3820e354055b7cf8859"
+    },
+    {
+      "url": "https://www.amd.com/en/products/workstations.html",
+      "source": "CRAWL",
+      "targetPath": "/en/products/workstations",
+      "id": "65032951ad5a5aa291758c8009213edf87c84352"
+    },
+    {
+      "url": "https://www.amd.com/en/resources/enterprise.html",
+      "source": "CRAWL",
+      "targetPath": "/en/resources/enterprise",
+      "id": "9edbcda2825afe9db5ba86090778934ef303f59c"
+    },
+    {
+      "url": "https://www.amd.com/en/search/adaptive-socs-and-fpgas/boards.html",
+      "source": "CRAWL",
+      "targetPath": "/en/search/adaptive-socs-and-fpgas/boards",
+      "id": "637f5975862ee4fee9af66fb436350001e3b72dc"
+    },
+    {
+      "url": "https://www.amd.com/en/search/blogs.html",
+      "source": "CRAWL",
+      "targetPath": "/en/search/blogs",
+      "id": "25ec3996763537151b49b5c2971bda28080eb2df"
+    },
+    {
+      "url": "https://www.amd.com/en/search/certified-drivers.html",
+      "source": "CRAWL",
+      "targetPath": "/en/search/certified-drivers",
+      "id": "607b44ed8047aae8f9d113d6efaffa3e4c95d8f2"
+    },
+    {
+      "url": "https://www.amd.com/en/search/documentation/hub.html",
+      "source": "CRAWL",
+      "targetPath": "/en/search/documentation/hub",
+      "id": "a2705a661fb25b6676f9b9a1b8e5e829d27f82ae"
+    },
+    {
+      "url": "https://www.amd.com/en/site-notifications/accessibility-statement.html",
+      "source": "CRAWL",
+      "targetPath": "/en/site-notifications/accessibility-statement",
+      "id": "c5b619950fd86148ac0a69cc4cedfa7df1a09c43"
+    },
+    {
+      "url": "https://www.amd.com/en/site-notifications/community-updates.html",
+      "source": "CRAWL",
+      "targetPath": "/en/site-notifications/community-updates",
+      "id": "25c08b3fd083e0b1dae9741f29d2729022756e68"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/aerospace-and-defense.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/aerospace-and-defense",
+      "id": "13f98bc465d196d57125b0817f08985701360972"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/ai.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/ai",
+      "id": "b449da0cbef90676eece98dd7c99799bf7ea8087"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/ai/silo-ai.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/ai/silo-ai",
+      "id": "87e15f1947f47457127bd244541b715476981430"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/ai/sovereign-ai.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/ai/sovereign-ai",
+      "id": "0c43a9ed35fc686002767c8a237a0b6f13ae09c9"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/architecture-engineering-and-construction.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/architecture-engineering-and-construction",
+      "id": "a3a58b906ec4fa3914a61e9f550ae79b6cd85bb0"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/automotive.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/automotive",
+      "id": "6f0b1097f20541abbac83f8cb36770a4b5e7ef72"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/broadcast-and-pro-av.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/broadcast-and-pro-av",
+      "id": "7306cb120c9104fa8c4edb0c9daa74e6f518fdcf"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/data-center.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/data-center",
+      "id": "1784ea0c977b9ee3e0343d860faa729acd5665eb"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/data-center/cloud-computing.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/data-center/cloud-computing",
+      "id": "f30b720748e8c83610a49a9dfd64a76b5dee76ee"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/data-center/infrastructure-acceleration.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/data-center/infrastructure-acceleration",
+      "id": "5ff791b4f90ad3b16d1d50f0694bfd2e9f5c59a9"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/data-center/networking.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/data-center/networking",
+      "id": "54c36bea5e9c189d574a6b412dd9287144343124"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/database-and-analytics.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/database-and-analytics",
+      "id": "7aa9501c4123f3a80105f9ebd22c740f5d8d3275"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/embedded-computing.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/embedded-computing",
+      "id": "25416f52b0cdd9f6933739bfd82d105c0e8036f2"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/emulation-prototyping.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/emulation-prototyping",
+      "id": "0d511521f4c95e54148adea47cb4bdb9951a230e"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/energy.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/energy",
+      "id": "6b349273b69ae43097d0ba6cddb08738777d91f0"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/financial-services.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/financial-services",
+      "id": "47a49ca1a44107aeb261d6104a365888333d940a"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/hci-and-virtualization.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/hci-and-virtualization",
+      "id": "edef8f70a38ea1582fcb1f58e8add680a48b5fda"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/healthcare.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/healthcare",
+      "id": "22b9a0dcc68503bb95c71b7ee12f5150ef488dba"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/high-performance-computing.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/high-performance-computing",
+      "id": "dbb0f06e3813f2c7f5a259f92da4b0319c2da7c2"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/home-and-lifestyle.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/home-and-lifestyle",
+      "id": "b8b2adc35eb6685761d233d0da8e73a1b9c90d8e"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/industrial.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/industrial",
+      "id": "ce7ba351750a6c15a0b43a01c21bf036e9e3aa10"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/manufacturing.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/manufacturing",
+      "id": "ff7afb5cdc98c98a32e614e74c829a39654ac17a"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/media-and-entertainment.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/media-and-entertainment",
+      "id": "0190356588eeb477160a49cc1809958bfbf42921"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/product-design.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/product-design",
+      "id": "18684c066aeee178920ad5e2759df3179e9f0012"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/public-sector.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/public-sector",
+      "id": "5f4cceb6129586975f88a0de58f5a6daf15c8a38"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/quantum-computing.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/quantum-computing",
+      "id": "b680eb1d40d2c6422af341580fce0bf681ef3732"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/retail-and-ecommerce.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/retail-and-ecommerce",
+      "id": "952c6cce49becb4c50879699362006338faeb9bb"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/semiconductor.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/semiconductor",
+      "id": "2e6d75d05cfc8471c32b1c446e3d837847279b84"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/telco-and-networking.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/telco-and-networking",
+      "id": "b4a0ee935eba30ceebeb9d55e3fcd59db5ba70ac"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/telco-and-networking/telco-accelerators.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/telco-and-networking/telco-accelerators",
+      "id": "2d953529d58b1c631d4c535798da1d297d05c974"
+    },
+    {
+      "url": "https://www.amd.com/en/solutions/test-and-measurement.html",
+      "source": "CRAWL",
+      "targetPath": "/en/solutions/test-and-measurement",
+      "id": "e9810ea36871e66e06c2a947712fd43ef653cd92"
+    },
+    {
+      "url": "https://www.amd.com/en/support/download/drivers.html",
+      "source": "CRAWL",
+      "targetPath": "/en/support/download/drivers",
+      "id": "d31c3846096615147528fa90c46ba1e2b153c27c"
+    },
+    {
+      "url": "https://www.amd.com/en/support/downloads/manageability-tools.html",
+      "source": "CRAWL",
+      "targetPath": "/en/support/downloads/manageability-tools",
+      "id": "3225706e3a9be0d50d73e1a23246b06225614a5a"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.amd.com/en/products/adaptive-socs-and-fpgas/technologies/digital-signal-processing.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.amd.com/en/resources/case-studies.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.amd.com/en/developer/resources/vitis-ai.html",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://www.amd.com/etc.clientlibs/common-ui/clientlibs/clientlib-site/resources/fonts/font-awesome/webfonts/fa-sharp-solid-900.woff2",
+      "status": "content type is not text/html"
+    }
+  ]
+}
